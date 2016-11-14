@@ -1,1 +1,1 @@
-Verze programu
+Ostré verze programu
