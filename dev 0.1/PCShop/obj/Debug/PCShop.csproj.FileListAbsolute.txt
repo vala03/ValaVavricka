@@ -1,8 +1,0 @@
-c:\users\att0mx\documents\visual studio 2015\Projects\PCShop\PCShop\bin\Debug\PCShop.exe.config
-c:\users\att0mx\documents\visual studio 2015\Projects\PCShop\PCShop\bin\Debug\PCShop.exe
-c:\users\att0mx\documents\visual studio 2015\Projects\PCShop\PCShop\bin\Debug\PCShop.pdb
-c:\users\att0mx\documents\visual studio 2015\Projects\PCShop\PCShop\obj\Debug\PCShop.Form1.resources
-c:\users\att0mx\documents\visual studio 2015\Projects\PCShop\PCShop\obj\Debug\PCShop.Properties.Resources.resources
-c:\users\att0mx\documents\visual studio 2015\Projects\PCShop\PCShop\obj\Debug\PCShop.csproj.GenerateResource.Cache
-c:\users\att0mx\documents\visual studio 2015\Projects\PCShop\PCShop\obj\Debug\PCShop.exe
-c:\users\att0mx\documents\visual studio 2015\Projects\PCShop\PCShop\obj\Debug\PCShop.pdb
